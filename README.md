@@ -1,5 +1,6 @@
 # ascii-patrol
-Ascii Patrol is an ASCII game project. It was mainly inspired by "Moon Patrol", my favourite arcade game at the times I was a child.
+Ascii Patrol is an ASCII game project. It was mainly inspired by "Moon Patrol", 
+my favourite arcade game at the times I was a child.
 
 <img src="./ascii-patrol.gif" alt="ascii-patrol" width="100%" />
 
